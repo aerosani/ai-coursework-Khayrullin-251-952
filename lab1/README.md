@@ -1,3 +1,5 @@
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/aerosani/ai-coursework-Khayrullin-251-952/blob/main/lab1/notebooks/lab1.ipynb)
+
 # Практическое занятие 1. Рабочее окружение
 
 Автор: Хайруллин Тахир Зиннурович, группа 251-952
